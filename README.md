@@ -2,17 +2,6 @@
 
 This project implements a Python FastAPI API to serve 4-week rolling average shipping capacity data based on a provided dataset of sailings.
 
-The solution is built to be correct, robust, and easily testable, meeting all requirements outlined in the task description.
-
-## Key Features
-
-- Correct Rolling Average: Accurately calculates the 4-week rolling average, correctly handling weeks with zero sailings.
-
-- Accurate Weekly Capacity: Follows the business logic to identify the latest departure for each unique service journey before aggregating capacity.
-
-- Robust & Tested: Includes a comprehensive test suite to verify all logic, including edge cases like year-boundaries and empty date ranges.
-
-- Modern API: Uses FastAPI with dependency injection for clean, asynchronous code and automatic API documentation.
 
 ## Tech Stack
 
