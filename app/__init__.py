@@ -1,3 +1,3 @@
 """
-Literally here just for getting imports to play nicely.
+Application part of the project
 """
